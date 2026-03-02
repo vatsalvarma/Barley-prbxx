@@ -1,0 +1,212 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Barley Drink – Shake & Gulp</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="Barleydrink.css">
+  
+</head>
+
+<body>
+
+<header class="header">
+  <div class="container header-inner">
+
+    <div class="logo-wrap">
+      <img src="Images/Shake&Gulp Logo.png" class="logo">
+      <span class="logo-text">Shake & Gulp</span>
+    </div>
+
+    <nav class="nav">
+      <a href="#">Home</a>
+      <a href="#">Our Drinks</a>
+      <a href="#">Articles</a>
+      <a href="#">Contact</a>
+    </nav>
+
+    <button class="order-btn">Order Now</button>
+
+  </div>
+</header>
+
+
+<section class="hero container">
+
+  <div class="hero-left">
+    <img src="https://i.ibb.co/FqfjwbQc/Bottle-with-elements.png" class="bottle">
+  </div>
+
+  <div class="hero-right">
+    <h1>Barley Drink</h1>
+    <p class="tagline">Shake the grain. Gulp the cool.</p>
+
+    <span class="small-label">INGREDIENTS</span>
+
+    <div class="ingredients">
+
+      <div class="ingredient water">
+        <div class="circle">
+          <img src="Images/download (31).jpeg">
+          <span class="wave"></span>
+        </div>
+        <span>Barley Extract</span>
+      </div>
+
+      <div class="ingredient">
+        <div class="circle">
+          <img src="Images/download (23).jpeg">
+        </div>
+        <span>Lemon Juice</span>
+      </div>
+
+      <div class="ingredient">
+        <div class="circle">
+          <img src="Images/download (24).jpeg">
+        </div>
+        <span>Honey</span>
+      </div>
+
+      <div class="ingredient">
+        <div class="circle">
+          <img src="Images/images (3).jpeg">
+        </div>
+        <span>Water</span>
+      </div>
+
+      <div class="ingredient">
+        <div class="circle">
+          <img src="Images/download (10).jpeg">
+        </div>
+        <span>A pinch of Salt</span>
+      </div>
+
+    </div>
+
+    <div class="special">
+      <h2>What’s Special About This Drink?</h2>
+      <p>
+        Barley has been a trusted grain in traditional diets, often used to prepare soothing, cooling 
+        drinks during warm weather. Known for its gentle, hydrating qualities, barley water has long 
+        been consumed to refresh the body and restore balance.
+      </p>
+      <p>
+        Shake & Gulp Barley Drink blends this time-honored grain with a hint of lemon for brightness 
+        and honey for smoothness. The result is a drink that feels light, clean, and naturally refreshing. 
+        Since real ingredients settle, every bottle is meant to be shaken well before drinking.
+      </p>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="info container">
+
+  <div class="info-block">
+    <h3>Health Benefits</h3>
+    <ul class="tick-list two-column">
+      <li>Helps cool the body during hot weather</li>
+      <li>Supports hydration and refreshment</li>
+      <li>Light and gentle on the stomach</li>
+      <li>Helps the body feel refreshed and balanced</li>
+      <li>A soothing drink during warm days</li>
+    </ul>
+    <p class="note">A simple traditional drink that keeps you feeling cool and comfortable.</p>
+  </div>
+
+  <div class="info-block">
+    <h3>Who Should Drink This?</h3>
+    <p>Barley Drink is a refreshing option for everyone as part of daily hydration.</p>
+    <p>It is especially helpful for people who experience:</p>
+   
+    <ul class="tick-list two-column">
+      <li>Body heat during summer</li>
+      <li>Dehydration from hot weather</li>
+      <li>Tiredness due to heat exposure</li>
+      <li>A need for light, cooling refreshment</li>
+      <li>Mild digestive unease in warm conditions</li>
+    </ul>
+
+    <p>A natural way to stay cool and refreshed.</p>
+  </div>
+
+  <div class="info-block">
+    <h3>Emotional Connect</h3>
+    <p>
+      Barley drinks have always been associated with comfort and care during hot days — a quiet 
+      household remedy to cool down and feel better. It’s the kind of drink made with patience and 
+      shared for relief.
+    </p>
+    <p><em>
+      Shake & Gulp Barley Drink brings that same gentle tradition into your modern routine — 
+      light, soothing, and made with intention.
+    </em></p>
+  </div>
+
+  <div class="info-block">
+    <h3>How to Enjoy</h3>
+    <ul class="tick-list two-column">
+      <li>Shake well before opening</li>
+      <li>Best served chilled</li>
+      <li>Enjoy during hot days or after sun exposure</li>
+      <li>Perfect as a light, cooling refreshment anytime</li>
+    </ul>
+    <p><strong>Shake the grain. Gulp the chill.</strong></p>
+  </div>
+
+</section>
+
+
+<section class="suggest container">
+  <h2 class="center-title">You May Also Like</h2>
+
+  <div class="center-cards">
+    <div class="card">
+      <img src="https://i.ibb.co/5XBZZR0g/Nimbu-Sabja-544x652.png">
+      <p>Nimbu Sabja</p>
+    </div>
+    <div class="card">
+      <img src="https://i.ibb.co/HTDfxG69/Nimbu-pudina-544x652.png">
+      <p>Nimbu Pudina</p>
+    </div>
+    <div class="card">
+      <img src="https://i.ibb.co/93Gx7RXY/Sabja-Lassi-544x652.png">
+      <p>Sabja Lassi</p>
+    </div>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container footer-cols">
+    <div>
+      <strong>Shake & Gulp</strong>
+      <p>Traditional Drinks. Honest Ingredients.</p>
+    </div>
+
+    <div>
+      <p>📍 Address</p>
+      <p>📞 Phone</p>
+      <p>✉️ Email</p>
+    </div>
+
+    <div>
+      <p>Quick Links</p>
+      <p>Home</p>
+      <p>Our Drinks</p>
+      <p>Articles</p>
+      <p>Contact</p>
+    </div>
+  </div>
+
+  <p class="copyright">
+    © Shake & Gulp — Shake Well. Gulp Fresh.
+  </p>
+</footer>
+
+</body>
+</html>
